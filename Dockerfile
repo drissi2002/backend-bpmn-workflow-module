@@ -1,4 +1,4 @@
-FROM openjdk:19
+FROM openjdk:11
 # Expose the port on which the Spring Boot app will run (default is 8080)
 EXPOSE 8080
 # ADD
