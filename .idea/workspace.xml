@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc9d88ce-928d-43f3-bd18-76327bd5efc9" name="Changes" comment="update application.yaml">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,7 +297,7 @@
       <workItem from="1685918966840" duration="758000" />
       <workItem from="1685919757822" duration="2005000" />
       <workItem from="1685922297997" duration="3543000" />
-      <workItem from="1685975784589" duration="5226000" />
+      <workItem from="1685975784589" duration="6483000" />
     </task>
     <task id="LOCAL-00001" summary="add the Dockerfile">
       <created>1685838119108</created>
@@ -327,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685985699169</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update application.yaml">
+      <created>1685986030632</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685986030632</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
