@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc9d88ce-928d-43f3-bd18-76327bd5efc9" name="Changes" comment="MODELISATION BPMN EXEMPLE">
+    <list default="true" id="fc9d88ce-928d-43f3-bd18-76327bd5efc9" name="Changes" comment="update pom and add dockerfile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +297,8 @@
       <workItem from="1685917254656" duration="1401000" />
       <workItem from="1685918966840" duration="758000" />
       <workItem from="1685919757822" duration="2005000" />
-      <workItem from="1685922297997" duration="1935000" />
+      <workItem from="1685922297997" duration="3543000" />
+      <workItem from="1685975784589" duration="4876000" />
     </task>
     <task id="LOCAL-00001" summary="add the Dockerfile">
       <created>1685838119108</created>
@@ -314,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685838409560</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update pom and add dockerfile">
+      <created>1685924535630</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685924535630</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,7 +341,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add the Dockerfile" />
     <MESSAGE value="MODELISATION BPMN EXEMPLE" />
-    <option name="LAST_COMMIT_MESSAGE" value="MODELISATION BPMN EXEMPLE" />
+    <MESSAGE value="update pom and add dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="update pom and add dockerfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
