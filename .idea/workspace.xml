@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fc9d88ce-928d-43f3-bd18-76327bd5efc9" name="Changes" comment="MODELISATION BPMN EXEMPLE">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,7 +293,12 @@
       <workItem from="1685840073985" duration="744000" />
       <workItem from="1685884576717" duration="983000" />
       <workItem from="1685887672236" duration="791000" />
-      <workItem from="1685909680255" duration="576000" />
+      <workItem from="1685909680255" duration="3067000" />
+      <workItem from="1685916542478" duration="667000" />
+      <workItem from="1685917254656" duration="1401000" />
+      <workItem from="1685918966840" duration="758000" />
+      <workItem from="1685919757822" duration="2005000" />
+      <workItem from="1685922297997" duration="1935000" />
     </task>
     <task id="LOCAL-00001" summary="add the Dockerfile">
       <created>1685838119108</created>
