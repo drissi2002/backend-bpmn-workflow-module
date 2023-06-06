@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc9d88ce-928d-43f3-bd18-76327bd5efc9" name="Changes" comment="update Dockerfile" />
+    <list default="true" id="fc9d88ce-928d-43f3-bd18-76327bd5efc9" name="Changes" comment="update Dockerfile">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -295,7 +298,8 @@
       <workItem from="1685918966840" duration="758000" />
       <workItem from="1685919757822" duration="2005000" />
       <workItem from="1685922297997" duration="3543000" />
-      <workItem from="1685975784589" duration="7166000" />
+      <workItem from="1685975784589" duration="8441000" />
+      <workItem from="1686094353576" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="add the Dockerfile">
       <created>1685838119108</created>
@@ -339,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685993674552</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update Dockerfile">
+      <created>1685994834164</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685994834164</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
