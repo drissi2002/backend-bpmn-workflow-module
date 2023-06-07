@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc9d88ce-928d-43f3-bd18-76327bd5efc9" name="Changes" comment="update docker-compose file">
+    <list default="true" id="fc9d88ce-928d-43f3-bd18-76327bd5efc9" name="Changes" comment="update services">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workflow/service/TasksService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workflow/service/TasksService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/workflow/service/WorkflowService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/workflow/service/WorkflowService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,7 +299,7 @@
       <workItem from="1685922297997" duration="3543000" />
       <workItem from="1685975784589" duration="8441000" />
       <workItem from="1686094353576" duration="5320000" />
-      <workItem from="1686161114259" duration="410000" />
+      <workItem from="1686161114259" duration="1753000" />
     </task>
     <task id="LOCAL-00001" summary="add the Dockerfile">
       <created>1685838119108</created>
@@ -388,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686107156986</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="update services">
+      <created>1686161631183</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686161631183</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +417,8 @@
     <MESSAGE value="update Dockerfile" />
     <MESSAGE value="update application.yaml and add docker-compose file" />
     <MESSAGE value="update docker-compose file" />
-    <option name="LAST_COMMIT_MESSAGE" value="update docker-compose file" />
+    <MESSAGE value="update services" />
+    <option name="LAST_COMMIT_MESSAGE" value="update services" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
