@@ -58,11 +58,11 @@ public class FormsService {
      */
     public Form saveFormJson (Form form) throws IOException {
 
-        // Save form.Content to an .form file in the specified path
+        /* Save form.Content to an .form file in the specified path
         File jsonFile = new File("src/main/resources/static/forms", form.getFormKey() + ".json");
         FileWriter writer = new FileWriter(jsonFile);
         writer.write(form.getFormContent());
-        writer.close();
+        writer.close();*/
 
         // Save form entity in database
         return formRepository.save(form);
@@ -83,11 +83,11 @@ public class FormsService {
      */
     public Form updateForm(Form form) throws IOException {
 
-        // Save form.Content to an .form file in the specified path
+        /* Save form.Content to an .form file in the specified path
         File jsonFile = new File("src/main/resources/static/forms", form.getFormKey() + ".json");
         FileWriter writer = new FileWriter(jsonFile);
         writer.write(form.getFormContent());
-        writer.close();
+        writer.close();*/
         return formRepository.save(form);
     }
 
