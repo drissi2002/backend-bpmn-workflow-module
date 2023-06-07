@@ -10,7 +10,7 @@ services:
       - API_URL=http://backend:8080/backend
 
   backend:
-    image: drissi2002/backend-integration:latest
+    image: backend-integration:latest
     ports:
       - 8080:8080
     depends_on:
