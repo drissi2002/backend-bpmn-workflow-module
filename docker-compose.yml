@@ -1,5 +1,12 @@
 version: '3'
 services:
+  frontend:
+    image: drissi2002/frontend-integration:latest
+    ports:
+      - 82:4200
+    depends_on:
+      - backend
+
   backend:
     image: drissi2002/backend-integration:latest
     ports:
