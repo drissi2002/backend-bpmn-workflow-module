@@ -442,12 +442,12 @@ public class TasksService {
                 throw new IllegalArgumentException("Invalid workflow: null");
             }
 
-            // Save BPMN XML file to /resources/static/bpmn folder
+            /* Save BPMN XML file to /resources/static/bpmn folder
             String fileName = workflow.getXmlName() + ".xml";
             File bpmnFile = new File("src/main/resources/static/bpmns", fileName);
             FileWriter writer = new FileWriter(bpmnFile);
             Bpmn.writeModelToFile(bpmnFile, bpmnModelInstance);
-            writer.close();
+            writer.close();*/
 
             updatedDeploymentId = deployment.getId();
             workflow.setDeploymentId(updatedDeploymentId);

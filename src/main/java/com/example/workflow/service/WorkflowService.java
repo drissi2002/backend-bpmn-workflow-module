@@ -163,12 +163,12 @@ public class WorkflowService {
         // Set the deployment ID of the workflow entity
         workflow.setDeploymentId(deployment.getId());
 
-        // Save BPMN XML file to /resources/static/bpmn folder
+        /* Save BPMN XML file to /resources/static/bpmn folder
         String fileName = workflow.getXmlName() + ".xml";
         File bpmnFile = new File("src/main/resources/static/bpmns", fileName);
         FileWriter writer = new FileWriter(bpmnFile);
         Bpmn.writeModelToFile(bpmnFile, modelInstance);
-        writer.close();
+        writer.close();*/
 
         // Save workflow entity to database
         return workflowRepository.save(workflow);
@@ -317,12 +317,12 @@ public class WorkflowService {
             // Set the deployment ID of the existing workflow to the new deployment ID
             existingWorkflow.setDeploymentId(deploymentUpdate.getId());
 
-            // Save BPMN XML file to resources/static/bpmn folder
+            /* Save BPMN XML file to resources/static/bpmn folder
             String fileName = workflow.getXmlName() + ".xml";
             File bpmnFile = new File("src/main/resources/static/bpmns", fileName);
             FileWriter writer = new FileWriter(bpmnFile);
             Bpmn.writeModelToFile(bpmnFile, modelInstance);
-            writer.close();
+            writer.close();*/
 
             return workflowRepository.save(existingWorkflow);
         } else {
